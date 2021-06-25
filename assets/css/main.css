@@ -5,7 +5,7 @@ margin: 0 auto;
 
 .info {
     display: flex;
-    background-color: #d8e8e3;
+   
     justify-content: center;
     margin-bottom: 32px;
 }
@@ -29,6 +29,14 @@ margin: 0 auto;
     line-height: 1.75;
     font-weight: 500;
     
+}
+
+.info p {
+    max-width: 46.15385em;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: 600;
 }
 
 .left-right-section {
@@ -180,3 +188,4 @@ section {
     display: flex;
     margin-bottom: 32px;
 }
+

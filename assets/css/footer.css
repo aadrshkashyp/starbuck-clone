@@ -33,7 +33,27 @@ footer {
     margin-right: 50px;
 }
 
-footer h3 {
+.footer h3 {
     font-weight: 400;
     margin-bottom: 24px;
+}
+
+
+.footer-Social {
+
+    display: flex;
+
+}
+
+.footer-Social ul {
+    list-style-type: none;
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.footer-Social li {
+padding-left: 10px;
+
 }
