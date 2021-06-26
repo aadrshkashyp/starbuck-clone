@@ -57,3 +57,35 @@ footer {
 padding-left: 10px;
 
 }
+
+.pages {
+
+    padding: 0 40px;
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    cursor: pointer;
+    
+}
+
+.pages ul {
+    list-style: none;
+ 
+    margin: 0;
+    padding: 0;
+}
+
+.pages li {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.pages span {
+    padding-right: 8px;
+  
+}
+
+
+.pages li:hover {
+    text-decoration: underline;
+}
